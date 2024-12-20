@@ -1,0 +1,24 @@
+{
+  "results": {
+    "arc_easy": {
+      "acc": 0.6085858585858586,
+      "acc_stderr": 0.010014917532627792,
+      "acc_norm": 0.5521885521885522,
+      "acc_norm_stderr": 0.010203742451111547
+    }
+  },
+  "versions": {
+    "arc_easy": 0
+  },
+  "config": {
+    "model": ".",
+    "model_args": null,
+    "num_fewshot": 0,
+    "batch_size": 4,
+    "device": null,
+    "no_cache": true,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": null
+  }
+}
