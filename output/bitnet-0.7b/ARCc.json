@@ -1,0 +1,24 @@
+{
+  "results": {
+    "arc_challenge": {
+      "acc": 0.21843003412969283,
+      "acc_stderr": 0.012074291605700917,
+      "acc_norm": 0.2508532423208191,
+      "acc_norm_stderr": 0.012668198621315347
+    }
+  },
+  "versions": {
+    "arc_challenge": 0
+  },
+  "config": {
+    "model": ".",
+    "model_args": null,
+    "num_fewshot": 0,
+    "batch_size": 8,
+    "device": null,
+    "no_cache": true,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": null
+  }
+}

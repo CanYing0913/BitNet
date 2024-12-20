@@ -1,0 +1,24 @@
+{
+  "results": {
+    "piqa": {
+      "acc": 0.5244831338411317,
+      "acc_stderr": 0.011651830225710194,
+      "acc_norm": 0.48694232861806314,
+      "acc_norm_stderr": 0.011661845375886442
+    }
+  },
+  "versions": {
+    "piqa": 0
+  },
+  "config": {
+    "model": ".",
+    "model_args": null,
+    "num_fewshot": 0,
+    "batch_size": 4,
+    "device": null,
+    "no_cache": true,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": null
+  }
+}

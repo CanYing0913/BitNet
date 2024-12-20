@@ -1,0 +1,22 @@
+{
+  "results": {
+    "winogrande": {
+      "acc": 0.5556432517758485,
+      "acc_stderr": 0.013965196769083553
+    }
+  },
+  "versions": {
+    "winogrande": 0
+  },
+  "config": {
+    "model": ".",
+    "model_args": null,
+    "num_fewshot": 0,
+    "batch_size": 8,
+    "device": null,
+    "no_cache": true,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": null
+  }
+}

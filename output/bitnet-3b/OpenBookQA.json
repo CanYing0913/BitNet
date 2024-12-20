@@ -1,0 +1,24 @@
+{
+  "results": {
+    "openbookqa": {
+      "acc": 0.148,
+      "acc_stderr": 0.01589645856125128,
+      "acc_norm": 0.256,
+      "acc_norm_stderr": 0.019536923574747664
+    }
+  },
+  "versions": {
+    "openbookqa": 0
+  },
+  "config": {
+    "model": ".",
+    "model_args": null,
+    "num_fewshot": 0,
+    "batch_size": 1,
+    "device": null,
+    "no_cache": true,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": null
+  }
+}
